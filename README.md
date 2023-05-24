@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Siddharth Tyagi</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🌱 I’m currently learning **MLOPS AAND NLP**
+- 🌱 I’m currently learning **MLOPS AND NLP**
 
 - 💬 Ask me about **Data Science and Data Analytics**
 
